@@ -1,0 +1,3 @@
+C:/Users/Abby Chávez/Edi-2022-P1/EDI-2022-P1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Abby Chávez/Edi-2022-P1/EDI-2022-P1/cmake-build-debug/CMakeFiles/EDI_2022_P1.dir
+C:/Users/Abby Chávez/Edi-2022-P1/EDI-2022-P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
