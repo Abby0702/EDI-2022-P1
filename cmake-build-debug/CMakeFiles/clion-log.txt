@@ -1,4 +1,13 @@
 "C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.2/bin/ninja/win/ninja.exe" -G Ninja "C:\Users\Abby Chávez\Edi-2022-P1\EDI-2022-P1"
 -- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Abby Chávez/Edi-2022-P1/EDI-2022-P1/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    Ejercicio4.c
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: EDI_2022_P1
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
